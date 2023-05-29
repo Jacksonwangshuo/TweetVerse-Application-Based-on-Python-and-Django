@@ -1,1 +1,1 @@
-# django social media project
+TweetVerse-Application-Based-on-Python-and-Django
